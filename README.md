@@ -13,7 +13,7 @@ This is a Django-based VoIP management system. It features a fully-fledged REST 
 1.  Ensure you have Python3 installed on your system.
     
 2.  Clone the repository:
-`'git clone https://github.com/EdsonAugusto/API-THOTH`'`
+`git clone https://github.com/EdsonAugusto/API-THOTH``
 
 3.  Install the required Python dependencies:
     `pip install -r requirements.txt`
